@@ -6,8 +6,7 @@ import TicTacToe from './Tic-Tac-Toe';
 function App() {
   return (
     <div className="App">
-      {/* <Play_game/> */}
-      <TicTacToe/>
+     <Play_game/> 
     </div>
   );
 }
