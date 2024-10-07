@@ -4,7 +4,7 @@ import img2 from '../src/Images/paper.jpeg'
 import img3 from '../src/Images/png-transparent-hand-rock-paper-scissors-computer-icons-hand-angle-text-photography-thumbnail.png'
 import img4 from '../src/Images/istockphoto-1269211670-612x612.jpg'
 
-export default function Play_game() {
+export default function Playgame() {
 
 const [myscore, setMyscore] = useState(0)
 const [machinescore, setMachinescore] = useState(0)
